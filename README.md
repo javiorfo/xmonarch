@@ -178,15 +178,15 @@ brightKeyBound               = False
 ## Screenshots
 ### Desktop Computer
 
-<img src="https://github.com/javi-7/img/raw/branch/master/xmonarch/xmonarch.png" alt="xmonarch pc" style="width:1200px;"/>
+<img src="https://github.com/javi-7/img/blob/master/xmonarch/xmonarch.png?raw=true" alt="xmonarch pc" style="width:1200px;"/>
 
 ### Notebook
 
-<img src="https://github.com/javi-7/img/raw/branch/master/xmonarch/xmonarch-note.png" alt="xmonarch note" style="width:1200px;"/>
+<img src="https://github.com/javi-7/img/blob/master/xmonarch/xmonarch-note.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
 
 ### Notebook 2
 
-<img src="https://github.com/javi-7/img/raw/branch/master/xmonarch/xmonarch-note2.png" alt="xmonarch note" style="width:1200px;"/>
+<img src="https://github.com/javi-7/img/blob/master/xmonarch/xmonarch-note2.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
 
 ## Support
 - [Paypal](https://www.paypal.com/donate/?hosted_button_id=DT5ZGHRJKYJ8C)
