@@ -80,8 +80,8 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     ++
 
     if S.volumeKeyBound then [ ((0                 , xF86XK_AudioMute),        spawn "pamixer -t")
-                             , ((0                 , xF86XK_AudioLowerVolume), spawn "pamixer -d 5")
-                             , ((0                 , xF86XK_AudioRaiseVolume), spawn "pamixer -i 5")
+                             , ((0                 , xF86XK_AudioLowerVolume), spawn "pamixer -d 1")
+                             , ((0                 , xF86XK_AudioRaiseVolume), spawn "pamixer -i 1")
                              ] else []
     ++
 
