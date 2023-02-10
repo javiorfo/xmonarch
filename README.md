@@ -8,14 +8,14 @@
 
 ## Installation
 ```console
-$ git clone https://github.com/javio7/xmonarch
+$ git clone https://github.com/charkuils/xmonarch
 $ cd xmonarch
 $ ./xmonarch.sh
 ```
 - `./xmonarch.sh` will install **Ubuntu Mono Nerd Font** (if not installed), set **00-keyboard.conf** with LATAM distribution (if you like), and install xmonad and settings (and remove older configurations).
 
 ## Configuration
-- Set preferences in [Settings.hs](https://github.com/javio7/xmonarch/blob/master/xmonad/lib/XMonad/Util/Settings.hs)
+- Set preferences in [Settings.hs](https://github.com/charkuils/xmonarch/blob/master/xmonad/lib/XMonad/Util/Settings.hs)
 ```haskell
 -- __  ____  __                            _
 -- \ \/ /  \/  | ___  _ __   __ _ _ __ ___| |__
@@ -179,15 +179,15 @@ brightKeyBound               = False
 ## Screenshots
 ### Desktop Computer
 
-<img src="https://github.com/javio7/img/blob/master/xmonarch/xmonarch.png?raw=true" alt="xmonarch pc" style="width:1200px;"/>
+<img src="https://github.com/charkuils/img/blob/master/xmonarch/xmonarch.png?raw=true" alt="xmonarch pc" style="width:1200px;"/>
 
 ### Notebook
 
-<img src="https://github.com/javio7/img/blob/master/xmonarch/xmonarch-note.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
+<img src="https://github.com/charkuils/img/blob/master/xmonarch/xmonarch-note.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
 
 ### Notebook 2
 
-<img src="https://github.com/javio7/img/blob/master/xmonarch/xmonarch-note2.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
+<img src="https://github.com/charkuils/img/blob/master/xmonarch/xmonarch-note2.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
 
 ## Support
 - [Paypal](https://www.paypal.com/donate/?hosted_button_id=DT5ZGHRJKYJ8C)
