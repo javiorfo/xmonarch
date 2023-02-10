@@ -1,5 +1,5 @@
 ##!/usr/bin/env bash
-# Author: Javier Orfo
+# Author: Mr. Charkuils
 # Last Edited: 05 Dec 2022
 
 echo -e "\033[0;33m"
