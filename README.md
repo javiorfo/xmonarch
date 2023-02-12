@@ -6,6 +6,35 @@
 - This set of tools have my own personal configurations (with `Nerd Fonts`, `Alacritty`, etc), feel free to use it and modify it as you wish.
 - This project has been developed on and for Linux following open source philosophy.
 
+## Overview
+- [x] XMonad in Settings.hs
+  - [x] Terminal
+  - [x] Windows borders
+  - [x] Nerd Fonts configuration
+  - [x] Workspaces configuration
+  - [x] Initial spawns configuration
+  - [x] Volume keymap configuration
+  - [x] Brightness keymap configuration
+  - [ ] Keymaps configuration
+  - [ ] Hooks configuration
+  - [ ] Spacing configuration
+- [x] XMobar in Settings.hs
+  - [x] Colors
+  - [x] Position
+  - [x] Separator
+  - [x] Nerd Fonts configuration
+  - [x] KBD style and optional
+  - [x] DYN NETWORK style and optional
+  - [x] DISK U style and optional
+  - [x] DATE configuration, style and optional
+  - [x] WEATHER configuration, style and optional
+  - [x] VOLUME style and optional
+  - [x] MULTI CPU style and optional
+  - [x] MULTI CORE TEMP style and optional
+  - [x] MEMORY style and optional
+  - [x] BATTERY configuration, style and optional
+  - [ ] BLUETOOTH
+
 ## Installation
 ```console
 $ git clone https://github.com/charkuils/xmonarch
@@ -145,36 +174,6 @@ brightKeyBound               = False
 -- ###################
 
 ```
-
-## Overview
-- [x] XMonad in Settings.hs
-  - [x] Terminal
-  - [x] Windows borders
-  - [x] Nerd Fonts configuration
-  - [x] Workspaces configuration
-  - [x] Initial spawns configuration
-  - [x] Volume keymap configuration
-  - [x] Brightness keymap configuration
-  - [ ] Keymaps configuration
-  - [ ] Hooks configuration
-  - [ ] Spacing configuration
-- [x] XMobar in Settings.hs
-  - [x] Colors
-  - [x] Position
-  - [x] Separator
-  - [x] Nerd Fonts configuration
-  - [x] KBD style and optional
-  - [x] DYN NETWORK style and optional
-  - [x] DISK U style and optional
-  - [x] DATE configuration, style and optional
-  - [x] WEATHER configuration, style and optional
-  - [x] VOLUME style and optional
-  - [x] MULTI CPU style and optional
-  - [x] MULTI CORE TEMP style and optional
-  - [x] MEMORY style and optional
-  - [x] BATTERY configuration, style and optional
-  - [ ] BLUETOOTH
-
 
 ## Screenshots
 ### Desktop Computer
