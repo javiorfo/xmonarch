@@ -1,5 +1,5 @@
 # XMonarch
-### :crown: XMonad with Arch
+### :crown: XMonad and XMobar with Arch
 *XMonarch is a personal configuration to get **XMonad** and **XMobar** in one piece on **Arch Linux**. This applies perfectly to my personal desktop computer, my personal notebook and my notebook for working with no need to have multiple file configurations for each one.*
 
 ## Caveats
