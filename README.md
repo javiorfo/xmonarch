@@ -187,6 +187,3 @@ brightKeyBound               = False
 ### Notebook 2
 
 <img src="https://github.com/charkuils/img/blob/master/xmonarch/xmonarch-note2.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
-
-## Support
-- [Paypal](https://www.paypal.com/donate/?hosted_button_id=DT5ZGHRJKYJ8C)
