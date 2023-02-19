@@ -187,3 +187,6 @@ brightKeyBound               = False
 ### Notebook 2
 
 <img src="https://github.com/charkuils/img/blob/master/xmonarch/xmonarch-note2.png?raw=true" alt="xmonarch note" style="width:1200px;"/>
+
+### Support
+- [Binance](https://www.binance.com/en/my/wallet/account/payment/send): `Pay ID: 546639204`
