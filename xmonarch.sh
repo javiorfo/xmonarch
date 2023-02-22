@@ -1,5 +1,5 @@
 ##!/usr/bin/env bash
-# Author: Mr. Charkuils
+# Author: Javier Orfo
 
 echo -e "\033[0;33m"
 echo -e "                                           _      "
